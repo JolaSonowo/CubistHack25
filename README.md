@@ -137,7 +137,7 @@ For production deployment:
 
 ## Technologies Used
 
-- **Python**: Flask, SQLAlchemy, Pandas, NumPy
+- **Python**: Flask, SQLAlchemy, Pandas, NumPy, Folium
 - **Dash/Plotly**: Interactive visualizations
 - **Folium/Leaflet**: Map visualizations
 - **PostgreSQL**: Database
